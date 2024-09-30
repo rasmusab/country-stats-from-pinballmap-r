@@ -4,3 +4,14 @@ This repo is meant as a minimal example of the [git scraping](https://simonwilli
 This data is also persisted and versioned in this very repository.
 
 ![](top-10-countries.svg)
+
+`renv` setup
+-------------
+
+The R environment was locked down with [`renv`](https://rstudio.github.io/renv/index.html) using the following commands:
+
+```r
+renv::init(bare = TRUE)
+renv::install(packages = c("tidyverse", "httr2", "jsonlite", "svglite"))
+renv::snapshot()
+```
