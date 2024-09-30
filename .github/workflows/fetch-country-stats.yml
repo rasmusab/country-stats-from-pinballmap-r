@@ -43,10 +43,10 @@ jobs:
       - name: Run R script
         run: Rscript get-countries-json.R
 
-      # - name: Commit and Push changes
-      #   run: |
-      #     git config --global user.name 'Rasmus Bååth'
-      #     git config --global user.email 'rasmus.baath@gmail.com'
-      #     git add .
-      #     git commit -m "Update data files" || echo "No changes to commit"
-      #     git push
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name 'Rasmus Bååth'
+          git config --global user.email 'rasmus.baath@gmail.com'
+          git add .
+          git commit -m "Update data files" || echo "No changes to commit"
+          git push
