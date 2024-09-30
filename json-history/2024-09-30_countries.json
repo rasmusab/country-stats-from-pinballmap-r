@@ -1,0 +1,337 @@
+[
+  {
+    "country": "US",
+    "location_count": 8080,
+    "id": {}
+  },
+  {
+    "country": "CA",
+    "location_count": 511,
+    "id": {}
+  },
+  {
+    "country": "AU",
+    "location_count": 481,
+    "id": {}
+  },
+  {
+    "country": "FR",
+    "location_count": 275,
+    "id": {}
+  },
+  {
+    "country": "GB",
+    "location_count": 176,
+    "id": {}
+  },
+  {
+    "country": "DE",
+    "location_count": 138,
+    "id": {}
+  },
+  {
+    "country": "FI",
+    "location_count": 107,
+    "id": {}
+  },
+  {
+    "country": "IT",
+    "location_count": 96,
+    "id": {}
+  },
+  {
+    "country": "BE",
+    "location_count": 89,
+    "id": {}
+  },
+  {
+    "country": "SE",
+    "location_count": 85,
+    "id": {}
+  },
+  {
+    "country": "AT",
+    "location_count": 84,
+    "id": {}
+  },
+  {
+    "country": "ES",
+    "location_count": 84,
+    "id": {}
+  },
+  {
+    "country": "NL",
+    "location_count": 80,
+    "id": {}
+  },
+  {
+    "country": "JP",
+    "location_count": 78,
+    "id": {}
+  },
+  {
+    "country": "NZ",
+    "location_count": 63,
+    "id": {}
+  },
+  {
+    "country": "PL",
+    "location_count": 52,
+    "id": {}
+  },
+  {
+    "country": "CH",
+    "location_count": 40,
+    "id": {}
+  },
+  {
+    "country": "DK",
+    "location_count": 35,
+    "id": {}
+  },
+  {
+    "country": "HU",
+    "location_count": 24,
+    "id": {}
+  },
+  {
+    "country": "IL",
+    "location_count": 18,
+    "id": {}
+  },
+  {
+    "country": "AR",
+    "location_count": 17,
+    "id": {}
+  },
+  {
+    "country": "NO",
+    "location_count": 13,
+    "id": {}
+  },
+  {
+    "country": "PT",
+    "location_count": 11,
+    "id": {}
+  },
+  {
+    "country": "CZ",
+    "location_count": 11,
+    "id": {}
+  },
+  {
+    "country": "ZA",
+    "location_count": 10,
+    "id": {}
+  },
+  {
+    "country": "MX",
+    "location_count": 10,
+    "id": {}
+  },
+  {
+    "country": "TH",
+    "location_count": 9,
+    "id": {}
+  },
+  {
+    "country": "IE",
+    "location_count": 7,
+    "id": {}
+  },
+  {
+    "country": "TW",
+    "location_count": 7,
+    "id": {}
+  },
+  {
+    "country": "GR",
+    "location_count": 6,
+    "id": {}
+  },
+  {
+    "country": "TR",
+    "location_count": 6,
+    "id": {}
+  },
+  {
+    "country": "BR",
+    "location_count": 6,
+    "id": {}
+  },
+  {
+    "country": "RS",
+    "location_count": 5,
+    "id": {}
+  },
+  {
+    "country": "HR",
+    "location_count": 5,
+    "id": {}
+  },
+  {
+    "country": "AE",
+    "location_count": 4,
+    "id": {}
+  },
+  {
+    "country": "SI",
+    "location_count": 4,
+    "id": {}
+  },
+  {
+    "country": "HK",
+    "location_count": 3,
+    "id": {}
+  },
+  {
+    "country": "BG",
+    "location_count": 3,
+    "id": {}
+  },
+  {
+    "country": "LU",
+    "location_count": 3,
+    "id": {}
+  },
+  {
+    "country": "SG",
+    "location_count": 3,
+    "id": {}
+  },
+  {
+    "country": "CN",
+    "location_count": 3,
+    "id": {}
+  },
+  {
+    "country": "SK",
+    "location_count": 2,
+    "id": {}
+  },
+  {
+    "country": "EE",
+    "location_count": 2,
+    "id": {}
+  },
+  {
+    "country": "VI",
+    "location_count": 2,
+    "id": {}
+  },
+  {
+    "country": "ID",
+    "location_count": 2,
+    "id": {}
+  },
+  {
+    "country": "RO",
+    "location_count": 2,
+    "id": {}
+  },
+  {
+    "country": "AX",
+    "location_count": 1,
+    "id": {}
+  },
+  {
+    "country": "VE",
+    "location_count": 1,
+    "id": {}
+  },
+  {
+    "country": "CL",
+    "location_count": 1,
+    "id": {}
+  },
+  {
+    "country": "IN",
+    "location_count": 1,
+    "id": {}
+  },
+  {
+    "country": "GE",
+    "location_count": 1,
+    "id": {}
+  },
+  {
+    "country": "BM",
+    "location_count": 1,
+    "id": {}
+  },
+  {
+    "country": "MY",
+    "location_count": 1,
+    "id": {}
+  },
+  {
+    "country": "MV",
+    "location_count": 1,
+    "id": {}
+  },
+  {
+    "country": "GI",
+    "location_count": 1,
+    "id": {}
+  },
+  {
+    "country": "SM",
+    "location_count": 1,
+    "id": {}
+  },
+  {
+    "country": "LT",
+    "location_count": 1,
+    "id": {}
+  },
+  {
+    "country": "PR",
+    "location_count": 1,
+    "id": {}
+  },
+  {
+    "country": "GG",
+    "location_count": 1,
+    "id": {}
+  },
+  {
+    "country": "PH",
+    "location_count": 1,
+    "id": {}
+  },
+  {
+    "country": "NC",
+    "location_count": 1,
+    "id": {}
+  },
+  {
+    "country": "PA",
+    "location_count": 1,
+    "id": {}
+  },
+  {
+    "country": "DO",
+    "location_count": 1,
+    "id": {}
+  },
+  {
+    "country": "BH",
+    "location_count": 1,
+    "id": {}
+  },
+  {
+    "country": "CR",
+    "location_count": 1,
+    "id": {}
+  },
+  {
+    "country": "CO",
+    "location_count": 1,
+    "id": {}
+  },
+  {
+    "country": "RU",
+    "location_count": 1,
+    "id": {}
+  }
+]
