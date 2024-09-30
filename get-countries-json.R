@@ -4,6 +4,7 @@
 library(tidyverse)
 library(httr2)
 library(jsonlite)
+library(svglite)
 
 # Fetch the latest country statistics from pinballmap.com
 response <- req_perform(request("https://pinballmap.com/api/v1/locations/countries.json"))
