@@ -20,6 +20,7 @@ jobs:
       # From here: https://datawookie.dev/blog/2022/08/linux-packages-for-r/
       - name: Install OS packages needed for R-packages to build from source
         run: |
+          sudo apt update
           sudo apt-get install -y \
           libcurl4-openssl-dev \
           libssl-dev \
