@@ -1,22 +1,22 @@
 [
   {
     "country": "US",
-    "location_count": 9137,
+    "location_count": 9155,
     "id": {}
   },
   {
     "country": "AU",
-    "location_count": 603,
-    "id": {}
-  },
-  {
-    "country": "CA",
-    "location_count": 558,
+    "location_count": 605,
     "id": {}
   },
   {
     "country": "FR",
-    "location_count": 558,
+    "location_count": 561,
+    "id": {}
+  },
+  {
+    "country": "CA",
+    "location_count": 557,
     "id": {}
   },
   {
@@ -35,13 +35,13 @@
     "id": {}
   },
   {
-    "country": "NL",
-    "location_count": 134,
+    "country": "ES",
+    "location_count": 138,
     "id": {}
   },
   {
-    "country": "ES",
-    "location_count": 132,
+    "country": "NL",
+    "location_count": 134,
     "id": {}
   },
   {
@@ -56,12 +56,12 @@
   },
   {
     "country": "AT",
-    "location_count": 103,
+    "location_count": 104,
     "id": {}
   },
   {
     "country": "BE",
-    "location_count": 101,
+    "location_count": 102,
     "id": {}
   },
   {
@@ -96,16 +96,16 @@
   },
   {
     "country": "HU",
-    "location_count": 32,
-    "id": {}
-  },
-  {
-    "country": "PT",
-    "location_count": 26,
+    "location_count": 31,
     "id": {}
   },
   {
     "country": "GR",
+    "location_count": 29,
+    "id": {}
+  },
+  {
+    "country": "PT",
     "location_count": 26,
     "id": {}
   },
@@ -120,12 +120,12 @@
     "id": {}
   },
   {
-    "country": "PR",
+    "country": "CZ",
     "location_count": 18,
     "id": {}
   },
   {
-    "country": "CZ",
+    "country": "PR",
     "location_count": 18,
     "id": {}
   },
@@ -140,12 +140,12 @@
     "id": {}
   },
   {
-    "country": "NO",
-    "location_count": 13,
+    "country": "HR",
+    "location_count": 14,
     "id": {}
   },
   {
-    "country": "HR",
+    "country": "NO",
     "location_count": 13,
     "id": {}
   },
@@ -155,13 +155,18 @@
     "id": {}
   },
   {
+    "country": "ZA",
+    "location_count": 10,
+    "id": {}
+  },
+  {
     "country": "IE",
     "location_count": 10,
     "id": {}
   },
   {
-    "country": "ZA",
-    "location_count": 10,
+    "country": "SI",
+    "location_count": 9,
     "id": {}
   },
   {
@@ -175,17 +180,12 @@
     "id": {}
   },
   {
-    "country": "SI",
-    "location_count": 7,
-    "id": {}
-  },
-  {
-    "country": "HK",
+    "country": "CL",
     "location_count": 6,
     "id": {}
   },
   {
-    "country": "RS",
+    "country": "HK",
     "location_count": 6,
     "id": {}
   },
@@ -195,12 +195,12 @@
     "id": {}
   },
   {
-    "country": "LU",
+    "country": "RS",
     "location_count": 6,
     "id": {}
   },
   {
-    "country": "CL",
+    "country": "LU",
     "location_count": 6,
     "id": {}
   },
@@ -210,13 +210,18 @@
     "id": {}
   },
   {
+    "country": "ID",
+    "location_count": 5,
+    "id": {}
+  },
+  {
     "country": "AE",
     "location_count": 5,
     "id": {}
   },
   {
-    "country": "ID",
-    "location_count": 5,
+    "country": "EE",
+    "location_count": 4,
     "id": {}
   },
   {
@@ -225,7 +230,7 @@
     "id": {}
   },
   {
-    "country": "EE",
+    "country": "MY",
     "location_count": 3,
     "id": {}
   },
@@ -235,17 +240,12 @@
     "id": {}
   },
   {
-    "country": "BA",
-    "location_count": 3,
-    "id": {}
-  },
-  {
     "country": "MT",
     "location_count": 3,
     "id": {}
   },
   {
-    "country": "MY",
+    "country": "BA",
     "location_count": 3,
     "id": {}
   },
